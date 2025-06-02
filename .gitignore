@@ -1,3 +1,4 @@
 # PyCharm project files
 .idea/
 *.iml
+assets/hw_1_2/application_data_processed.csv.zip
